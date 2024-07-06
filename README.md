@@ -1,2 +1,4 @@
 # medshare
 基于SpringBoot+SpringSecurity+JPA和Vue3的智慧医疗物联网课设demo
+
+基于WebRTC和WebSocket实现P2P通信
